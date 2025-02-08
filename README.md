@@ -16,6 +16,10 @@
 - **Install the project's packages:** `pnpm i`
 - **Start the development server:** `pnpm dev`
 
+# Running the development server
+- **Build the Production server:** `npm run build`
+- **Start the Production server:** `npm start`
+
 # Server ports:
 **Next.js 15.0.0 (turbo):** `http://localhost:3000`
 
@@ -23,5 +27,6 @@
 - **Dashboard Page:** `http://localhost:3000/dashboard`
 
 **Children**
+- **Home Tab:** `http://localhost:3000/dashboard`
 - **Customer Tab:** `http://localhost:3000/dashboard/customers`
 - **Invoice Tab:** `http://localhost:3000/dashboard/invoices`
